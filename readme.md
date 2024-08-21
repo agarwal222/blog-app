@@ -24,7 +24,6 @@ This is a full-stack blog app built with React, Node.js, Express, and MongoDB.
 3. Create a `.env` file in the root directory with the following variables:
 	* `MONGO_URI` - the URI of your MongoDB instance
 	* `JWT_SECRET` - a secret key for generating JWTs
-	* `PORT` - the port number to run the server on (optional, defaults to 5000)
 4. Run `npm run dev` to start the server
 
 ## Frontend
